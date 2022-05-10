@@ -1,0 +1,6 @@
+@import url('global-styling.css');
+@import url('header.css');
+@import url('special-category.css');
+@import url('discount.css');
+@import url('./discount-options.css');
+@import url('./featured_products.css');
